@@ -19,7 +19,8 @@ public class Mainclass {
 		        n1 = scannerObject. nextDouble();
 		        System.out.println("Enter first number");
 		        n1 = scannerObject. nextDouble();
-		
+		        System.out.println("Enter first number");
+		        n1 = scannerObject. nextDouble();
 		        System.out.println("Enter second number");
 		        n2 = scannerObject. nextDouble();
 		
